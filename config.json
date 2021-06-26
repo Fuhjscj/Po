@@ -181,7 +181,7 @@
       "formatter_man": "😍😍 | {first_user} скучал по {second_user}",
       "formatter_woman": "😍😍 | {first_user} скучала по {second_user}",
       "all_ending": "всем"
-   },
+   }
   ],
   "disable_notifications": true,
   "trusted": [],
