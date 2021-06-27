@@ -48,4 +48,3 @@ ENABLE_EVAL = False
 ALLOW_SENTRY = True
 SENTRY_URL = "https://7a3f1b116c67453c91600ad54d4b7087@o481403.ingest.sentry.io/5529960"
 
-
